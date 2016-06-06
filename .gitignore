@@ -1,0 +1,14 @@
+bin
+packages
+FakesAssemblies
+obj
+*.suo
+Properties
+*.psess
+*.vsp
+!packages.config
+.vspscc
+.user
+Bin
+lib
+Lib
